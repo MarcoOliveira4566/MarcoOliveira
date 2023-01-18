@@ -11,8 +11,7 @@ Marco Oliveira
 ## Habilidades
 <h4 p align="center"> <li>
  Iniciando estudos em HTML.
-<h6 p align="center"> StartPro.
+ <h6 p align="center"> StartPro. 
 
 ## Contato
-<li>
-marccs996@gmail.com
+`marccs996@gmail.com`
