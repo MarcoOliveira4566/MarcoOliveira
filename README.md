@@ -6,11 +6,11 @@
 
 <h6 p align="center">
  💻🚀Sempre buscando aprender mais... 🚀💻 
-
+  
 ## Habilidades
-<h4 p align="center">
-- Iniciando estudos em HTML.
-<h6 p align="center"> - StartPro.
+<h4 p align="center"> <li>
+ Iniciando estudos em HTML.
+<h6 p align="center"> StartPro.
 
 ## Contato
 <h4 p align="center"> <li>
