@@ -7,6 +7,7 @@ Olá meu nome é Marco Oliveira </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="20"> </h5>
 <h4>
 <li>Iniciando estudos em HTML.
+ <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=marcooliveira4566&show_icons=true&theme=dark">
 
 ## Contatos
