@@ -10,8 +10,9 @@ Marco Oliveira
   
 ## Habilidades
 <h4 p align="center"> <li>
- Iniciando estudos em HTML.
- <h6 p align="center"> StartPro. 
+ Iniciando estudos em HTML. </h4>
+
+<h6 p align="center"> StartPro. </h6>
 
 ## Contato
 <li> <a href="mailto:omarcooliveira.12@gmail.com"> Email
