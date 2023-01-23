@@ -1,6 +1,6 @@
 <h3 p align="left">
 Olá meu nome é Marco Oliveira </h3>
- <p align="left"> ﾠﾠ
+ <p align="left">  ﾠ
 <img src="https://cdn.discordapp.com/attachments/435514046192812045/1064720779817779200/1673919597333.jpg" width="150" height="180">
 
 ## Habilidades
