@@ -14,6 +14,6 @@ Marco Oliveira
  <h6 p align="center"> StartPro. 
 
 ## Contato
-<li> `marccs996@gmail.com`
+<li> <a href="mailto:omarcooliveira.12@gmail.com"> Email
 <li> <a href="https://wa.me/5513996062520"> WhatsApp
  <li> <a href="https://www.linkedin.com/mwlite/in/marco-oliveira-a18829260"> LinkedIn
