@@ -1,15 +1,14 @@
 
-<h2 p align="center">
-Marco Oliveira
- <p align="center">
-<img src="https://cdn.discordapp.com/attachments/435514046192812045/1064720779817779200/1673919597333.jpg" width="150" height="185">
-
+<h3 p align="center">
+Olá meu nome é Marco Oliveira </h3>
 <h5 p align="center">
- 💻🚀Sempre buscando aprender mais... 🚀💻 
-  
+Sempre buscando aprender mais!
+
+ <p align="center">
+<img src="https://cdn.discordapp.com/attachments/435514046192812045/1064720779817779200/1673919597333.jpg" width="150" height="150">
 
 ## Habilidades
-<h4 p align="left">
+<h5>
 <li>Iniciando estudos em HTML.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="20">
 
