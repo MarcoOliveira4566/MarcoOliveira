@@ -4,7 +4,7 @@ Olá meu nome é Marco Oliveira </h3>
 <img src="https://cdn.discordapp.com/attachments/435514046192812045/1064720779817779200/1673919597333.jpg" width="150" height="180">
 
 ## Habilidades
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="35"> </h5>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30"> </h5>
 <h4>
 <li>Iniciando estudos em HTML.
  <p align="left">
