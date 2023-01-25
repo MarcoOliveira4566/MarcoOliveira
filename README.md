@@ -4,9 +4,12 @@ Olá meu nome é Marco Oliveira </h3>
 <img src="https://cdn.discordapp.com/attachments/435514046192812045/1064720779817779200/1673919597333.jpg" width="150" height="180">
 
 ## Habilidades
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30"> </h5>
+ <div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" width="30">
+<div>
 <h4>
-<li>Iniciando estudos em HTML.
+<li>Iniciando estudos em HTML e Dart.
  <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=marcooliveira4566&show_icons=true&theme=dark">
 
