@@ -1,11 +1,11 @@
 <h3 p align="left">
 Olá meu nome é Marco Oliveira </h3>
  <p align="left">  ﾠ
-<img src="https://cdn.discordapp.com/attachments/435514046192812045/1064720779817779200/1673919597333.jpg" width="150" height="180">
+<img src="https://cdn.discordapp.com/attachments/435514046192812045/1064720779817779200/1673919597333.jpg" width="155" height="180">
 
 ## Habilidades
  <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="35">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" width="30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="30">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30">
