@@ -1,5 +1,5 @@
 <h3 p align="left">
-Olá meu nome é Marco Oliveira </h3>
+Olá <img src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fclaabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg" width="25"> , meu nome é Marco Oliveira </h3>
  <p align="left">  ﾠ
 <img src="https://cdn.discordapp.com/attachments/435514046192812045/1064720779817779200/1673919597333.jpg" width="165" height="180">
 
