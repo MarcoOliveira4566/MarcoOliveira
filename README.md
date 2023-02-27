@@ -11,7 +11,7 @@ Olá, meu nome é Marco Oliveira </h3>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30">
 <div>
 <h4>
-<li>Iniciando estudos em HTML e Dart.
+<li>Iniciando estudos em HTML, CSS e JavaScript.
  <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=marcooliveira4566&show_icons=true&theme=dark">
    
